@@ -6,12 +6,12 @@ Welcome! This repo is a collection with all versions of my code for an college p
 ## Contents
 
 - Two ways to classify SPAM and HAM e-mails with **Naive Bayes**.
-    - #1 [Naive Bayes 1](https://github.com/DyMatos/Project_IA_2022-2023/blob/main/src/Naive%20Bayes/NaiveBayes1.py)
-    - #2 [Naive Bayes 2](https://github.com/DyMatos/Project_IA_2022-2023/blob/main/src/Naive%20Bayes/NaiveBayes2.py)
+    - [Naive Bayes 1](https://github.com/DyMatos/Project_IA_2022-2023/blob/main/src/Naive%20Bayes/NaiveBayes1.py)
+    - [Naive Bayes 2](https://github.com/DyMatos/Project_IA_2022-2023/blob/main/src/Naive%20Bayes/NaiveBayes2.py)
 
 - Two ways to classify SPAM and HAM with **Perceptron**.
-    - #1 [Perceptron 1](https://github.com/DyMatos/Project_IA_2022-2023/tree/main/src/Peceptron/Perceptron1)
-    - #2 [Perceptron 2](https://github.com/DyMatos/Project_IA_2022-2023/tree/main/src/Peceptron/Perceptron2)
+    - [Perceptron 1](https://github.com/DyMatos/Project_IA_2022-2023/tree/main/src/Peceptron/Perceptron1)
+    - [Perceptron 2](https://github.com/DyMatos/Project_IA_2022-2023/tree/main/src/Peceptron/Perceptron2)
 
 - Lastly an **AC-3 Algorithm** to resolve a Sudoku.
     - [AC-3](https://github.com/DyMatos/Project_IA_2022-2023/tree/main/src/AC-3)
